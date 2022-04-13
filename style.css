@@ -1,0 +1,216 @@
+.main-container{
+    
+}
+.container-one{
+    
+    background-color: rgb(46, 2, 2);
+width: 100%;
+height: 100px;
+    
+}
+.container-two{
+    
+    background-color: rgb(223, 72, 13) ;
+    width: 100%;
+    height: 20px
+}
+.container-three{
+
+    background-color: rgb(41, 38, 38) ;
+    width: 100%;
+    height: 350px
+}
+.container-four{
+
+    background-color: black;
+    width: 100%;
+    height: 290px
+}
+.main-list
+{
+display: flex;
+justify-content:right;
+list-style-type: none;
+/* background-color: rgba(78, 4, 4, 0.89); */
+color: rgb(21, 22, 22);
+padding: 20px;
+align-items: center;
+}
+.main-list li {
+    padding-right: 20px;
+}
+.main-list a{
+    color: rgb(250, 244, 244);
+    text-decoration: none;
+}
+.main-list a:hover{
+    color: rgb(247, 246, 242);
+    font-size: large;
+}
+.front
+{
+    color: white;
+    font-family:Baskerville Old Face;
+    font-size: 40px;
+    position: absolute;
+    left: 5%;
+    top: 6px;
+    
+    
+}
+.must{
+    font-family:Brush Script MT;
+    color: rgb(247, 43, 43);
+    font-size: 80px;
+    position: absolute;
+    left: 16%;
+    top: -10%;
+}
+.jan{
+    color: white;
+    background-color:rgb(241, 43, 8);
+    width: 100px;
+    height: 50px;
+     border-radius: 30px;
+}
+#mail{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+}
+#seal{
+    vertical-align: middle;
+}
+.born{
+    color: white;
+    background-color: rgb(228, 15, 15);
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+.level{
+list-style-type: none;
+color: rgb(235, 31, 16);
+padding: 20px;
+text-decoration: red underline;
+}
+.level a{
+    color: rgb(194, 32, 3);
+}
+.level a:hover{
+    color: white;
+    font-size: medium;
+} 
+p{
+    color: white;
+    font-size: large; 
+}
+#new{
+    color: white;
+}
+.form{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+.fore{
+    color: white;
+    font-family:Baskerville Old Face;
+    font-size: 35px;
+    position: absolute;
+    top: 78%;
+    left: 10%;
+}
+.most{
+    font-family:Brush Script MT;
+    color: rgb(247, 43, 43);
+    font-size: 70px;
+    position: absolute; 
+    top: 70%;
+    left: 20%;
+}
+.list
+{
+display: flex;
+justify-content:right;
+list-style-type: none;
+color: rgb(21, 22, 22);
+padding: 20px;
+align-items: center;
+position: absolute;
+bottom: -5%;
+left: 40%;
+
+}
+.list li {
+    padding-right: 20px;
+}
+.list a{
+    color: rgb(250, 244, 244);
+    text-decoration: none;
+}
+.list a:hover{
+    color: rgb(247, 246, 242);
+    font-size: large;
+}
+.icon{
+    display: flex;
+    list-style-type: none;
+    position: absolute;
+    top:550px;
+    left: 80px;
+}
+.icon li{
+    padding: 10px;
+}
+img{
+    width: 120px;
+    height: 50px;
+    
+    
+}
+#net{
+    width: 100px;
+    height: 40px;
+    border: white solid 1px;
+    border-radius: 10px;
+}
+.image{
+    display: flex;
+    text-decoration: none;
+    padding: 20px;
+    position: absolute;
+    top: 600px;
+    list-style-type: none;
+}
+.image li{
+    padding: 10px;
+}
+#pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.move{
+    position: absolute;
+    top: 650px;
+    left: 70%;
+}
+.color{
+    color: red;
+}
+.many{
+    position: absolute;
+    top: 695px;
+    left: 5%;
+}
+.mat{
+    position: absolute;
+    top: 695px;
+    left: 60%;
+}
+.pot{
+    position: absolute;
+    top: 650px;
+    left: 65%; 
+}
